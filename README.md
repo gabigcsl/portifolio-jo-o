@@ -1,2 +1,2 @@
-# portifolio-jo-o
+# portifolio-joao
 Repositório do portfólio do João
